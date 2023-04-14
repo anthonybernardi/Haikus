@@ -10,6 +10,11 @@ installing Python should come with pip3, so in your terminal you can do:
 3. `source venv/bin/activate`
 4. `pip3 install -r requirements.txt`
 
+## Running the project
+
+1. `source venv/bin/activate` <-- (if not already done in the current terminal)
+2. `jupyter-notebook haikus.ipynb`
+
 ## Installing New Dependencies
 
 1. `source venv/bin/activate`
